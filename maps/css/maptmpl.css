@@ -1,0 +1,4 @@
+#svg-map .selected{
+    stroke: red;
+    stroke-width: 6;
+}
